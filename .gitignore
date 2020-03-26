@@ -1,3 +1,7 @@
 .git
 node_modules/
 config.json
+*.pdf
+*.png
+*.csv
+test.js
