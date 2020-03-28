@@ -5,3 +5,5 @@ config.json
 *.png
 *.csv
 test.js
+edt.js
+
